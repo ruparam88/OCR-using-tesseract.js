@@ -1,3 +1,5 @@
+### Demo : https://ocr-using-tesseract-js.vercel.app/
+
 # 🧠 Image Text Extractor using Tesseract.js
 
 A simple React-based web application that extracts text from images using the power of [Tesseract.js](https://github.com/naptha/tesseract.js), an OCR (Optical Character Recognition) library written in JavaScript.
