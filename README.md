@@ -28,7 +28,7 @@ Make sure you have these installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/rupram88/OCR-using-tesseract.js.git
    cd YOUR_REPO_NAME
    ```
 
